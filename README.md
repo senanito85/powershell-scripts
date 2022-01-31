@@ -1,7 +1,7 @@
-Mega Collection of PowerShell Scripts
+Collection of PowerShell Scripts
 =====================================
 
-**This repository provides more than 250 useful and cross-platform PowerShell scripts in the [📂Scripts](Scripts/) subfolder - to be used by command-line interface (CLI), for remote control (e.g. via SSH), by context menu, by voice control (see also the [talk2windows](https://github.com/fleschutz/talk2windows) repository), by automation software like [Jenkins](https://www.jenkins.io/), automatically as daily tasks, or simply to learn PowerShell. See the [FAQ page](Docs/FAQ.md) if you need help or have any questions.**
+**This repository provides more than 250 useful and cross-platform PowerShell scripts in the [📂Scripts](Scripts/) subfolder - to be used by command-line interface (CLI), for remote control (e.g. via SSH), by context menu, by voice control, by automation software like [Jenkins](https://www.jenkins.io/), automatically as daily tasks, or simply to learn PowerShell. See the [FAQ page](Docs/FAQ.md) if you need help or have any questions.**
 
 **Note:** the scripts fully support Unicode characters. It's recommended to use a modern console supporting UTF-8 (e.g. Windows Terminal).
 
@@ -346,10 +346,4 @@ Mega Collection of PowerShell Scripts
 | [write-uppercase.ps1](Scripts/write-uppercase.ps1)   | Writes the given text in uppercase letters                         | [Help](Docs/write-uppercase.md)         |
 | [write-vertical.ps1](Scripts/write-vertical.ps1)     | Writes the given text in vertical direction                        | [Help](Docs/write-vertical.md)          |
 
-Feedback
---------
-Send your email feedback to: markus [at] fleschutz [dot] de
 
-License, Copyright & Trademarks
--------------------------------
-This open source release is licensed under the CC0 license. All trademarks are the property of their respective owners.
